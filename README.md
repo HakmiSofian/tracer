@@ -1,4 +1,21 @@
-#tracer for node.js  [![Build Status](https://secure.travis-ci.org/baryon/tracer.png)](http://travis-ci.org/baryon/tracer)
+#tracer for node.js  
+
+[![NPM Version][npm-image]][npm-url]
+[![Dependency Status][dependencies-image]][dependencies-url]
+[![devDependency Status][dev-dependencies-image]][dev-dependencies-url]
+[![Build Status][travis-image]][travis-url]
+
+[npm-image]: https://img.shields.io/npm/v/tracer.svg?style=flat
+[npm-url]: https://www.npmjs.com/package/tracer
+
+[travis-image]: https://img.shields.io/travis/baryon/tracer.svg?style=flat
+[travis-url]: https://travis-ci.org/baryon/tracer
+
+[dependencies-image]: https://david-dm.org/baryon/tracer.svg
+[dependencies-url]: https://david-dm.org/baryon/tracer
+
+[dev-dependencies-image]: https://david-dm.org/baryon/tracer/dev-status.svg
+[dev-dependencies-url]: https://david-dm.org/baryon/tracer#info=devDependencies
 
 A powerful and customizable logging library for node.js.
 
